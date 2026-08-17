@@ -10,3 +10,11 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=giovannisco&color=blue&style=flat-square&label=Profile+views" alt="Profile views" />
 </p>
+
+### 🔗 Connect with me:
+
+<!-- Sostituisci i link # con i tuoi veri URL di LinkedIn e altri social -->
+<p align="left">
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
